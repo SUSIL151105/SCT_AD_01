@@ -29,7 +29,7 @@ This project demonstrates core Android development concepts including UI design,
 
 1. **Clone this repository**  
    ```bash
-  GIT CLONE- https://github.com/SUSIL151105/SCT_AD_01.git
+   https://github.com/SUSIL151105/SCT_AD_01.git
 2. Open the project in Android Studio
 3. Sync Gradle and let dependencies load
 4. Run the app on an emulator or a real Android device
