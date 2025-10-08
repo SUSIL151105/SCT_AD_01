@@ -1,0 +1,11 @@
+<resources>
+    <string name="simple_calculator">SIMPLE CALCULATOR</string>
+    <string name="addition">+</string>
+    <string name="substract">-</string>
+    <string name="multiply">×</string>
+    <string name="divide">÷</string>
+    <string name="_1st_number">1ST NUMBER</string>
+    <string name="_2nd_number">2ND NUMBER</string>
+    <string name="result">RESULT</string>
+    <string name="calculator">Calculator</string>
+</resources>
